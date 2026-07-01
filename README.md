@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1E3,50:C9B6FF,100:B5D8FF&height=230&section=header&text=Hii,%20I%27m%20Ika%20Triyana!%20(%EF%BD%A1%EF%BD%A5%CF%89%EF%BD%A5%EF%BD%A1)%EF%BE%89%E2%99%A1&fontSize=34&fontColor=4A3F6A&animation=fadeIn&fontAlignY=35&desc=Programmer%20%E2%9C%A8%20SEO%20x%20Performance%20Nerd%20%E2%9C%A8%20Mentor&descAlignY=55&descSize=18&descColor=4A3F6A" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1E3,50:C9B6FF,100:B5D8FF&height=230&section=header&text=Hii,%20I%27m%20Nana!%20(%EF%BD%A1%EF%BD%A5%CF%89%EF%BD%A5%EF%BD%A1)%EF%BE%89%E2%99%A1&fontSize=34&fontColor=4A3F6A&animation=fadeIn&fontAlignY=35&desc=Programmer%20%E2%9C%A8%20SEO%20x%20Performance%20Nerd%20%E2%9C%A8%20Mentor&descAlignY=55&descSize=18&descColor=4A3F6A" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=C05CD9&center=true&vCenter=true&width=700&lines=building+cute+%26+scalable+internal+apps+%F0%9F%8C%B7;growing+SEO+traffic+from+1K+to+16K%2Fweek+%F0%9F%8D%AD;mentoring+future+devs+with+lots+of+love+%F0%9F%A7%B8;making+hard+things+easy+to+understand+%E2%9C%A8" alt="Typing SVG" />
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="160">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=C05CD9&center=true&vCenter=true&width=700&lines=building+scalable+internal+apps+%F0%9F%8C%B7;growing+SEO+traffic+from+1K+to+16K%2Fweek+%F0%9F%8D%AD;mentoring+future+developers+with+dedication+%F0%9F%A7%B8;making+complex+topics+easy+to+understand+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -37,7 +35,7 @@
 > ✧ Information Systems graduate (Alma Ata University) turned full-time **Programmer** ✧
 > ✧ 10+ internal apps & 15+ SEO websites (1K–16K weekly traffic) built with love 🌷
 > ✧ Big soft spot for mentoring — helped **2 cohorts become top graduates** 🎓💕
-> ✧ Believes messy code and messy topics can *always* be made simple and cute ✨
+> ✧ Believes complex problems and topics can *always* be broken down into something simple and clear ✨
 >
 > ˚₊‧───────────────────────────────‧₊˚
 
@@ -232,8 +230,9 @@ Collaborated with UI/UX designers on the MARICA website and helped build a web-b
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NanaBanana14&show_icons=true&theme=cottoncandy&hide_border=true&title_color=C05CD9&icon_color=FF8FC7&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanaBanana14&layout=compact&theme=cottoncandy&hide_border=true&title_color=C05CD9" />
+<img src="https://img.shields.io/github/followers/NanaBanana14?style=for-the-badge&color=FFC1E3&labelColor=FFF0F5&logo=github&logoColor=4A3F6A" />
+<img src="https://img.shields.io/github/stars/NanaBanana14?style=for-the-badge&color=C9B6FF&labelColor=FFF0F5&logo=github&logoColor=4A3F6A" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/NanaBanana14&label=public%20repos&query=%24.public_repos&style=for-the-badge&color=B5D8FF&labelColor=FFF0F5&logo=github&logoColor=4A3F6A" />
 
 <br/>
 
@@ -281,16 +280,16 @@ Collaborated with UI/UX designers on the MARICA website and helped build a web-b
 <a href="https://github.com/NanaBanana14">
   <img src="https://img.shields.io/badge/GitHub-C9B6FF?style=for-the-badge&logo=github&logoColor=4A3F6A" />
 </a>
-<a href="#">
+<a href="https://www.linkedin.com/in/ika-triyana-1a1020236/">
   <img src="https://img.shields.io/badge/LinkedIn-B5D8FF?style=for-the-badge&logo=linkedin&logoColor=4A3F6A" />
 </a>
-<a href="#">
+<a href="https://nanabanana14.github.io/portofolio-nana/">
   <img src="https://img.shields.io/badge/Portfolio-FFDFEF?style=for-the-badge&logo=googlechrome&logoColor=4A3F6A" />
 </a>
 
 <br/><br/>
 
-<i>"Passionate about sharing knowledge and making complex topics easier to understand — helping teams and learners grow." 🌷</i>
+<i>"Passionate about sharing knowledge and making complex topics easier to understand, helping teams and learners grow." 🌷</i>
 
 ˚₊‧───────────────────────────────‧₊˚
 
@@ -302,8 +301,6 @@ Collaborated with UI/UX designers on the MARICA website and helped build a web-b
 <div align="center">
 
 <br/>
-
-<img src="https://media.giphy.com/media/LrmU0kj4WQ2Ha1YWoA/giphy.gif" width="130">
 
 <br/>
 

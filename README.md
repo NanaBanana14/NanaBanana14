@@ -166,7 +166,7 @@ Collaborated with UI/UX designers on the MARICA website and helped build a web-b
 
 <p align="center">✿ ┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅❀ 𓊆 tech stack 𓊇 ❀┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅ ✿</p>
 
-## 🍭 Tech Arsenal
+## 🍭 Tech Stack
 
 <div align="center">
 

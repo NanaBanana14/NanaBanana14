@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2A5F,100:2563B8&height=160&section=header&text=Ika%20Triyana&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=Programmer%20%C2%B7%20Web%20Performance%20%C2%B7%20Mentor&descSize=18&descAlignY=65" width="100%" alt="Ika Triyana" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2A5F,100:2563B8&height=160&section=header&text=Ika%20Triyana&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=Programmer%20%C2%B7%20Web%20Performance%20%C2%B7%20&descSize=18&descAlignY=65" width="100%" alt="Ika Triyana" />
 
   <a href="mailto:ikatriyana14secjui@gmail.com"><img src="https://img.shields.io/badge/Email-0F2A5F?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/ika-triyana-1a1020236/"><img src="https://img.shields.io/badge/LinkedIn-2563B8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>

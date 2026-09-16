@@ -30,17 +30,17 @@ Programmer, web performance practitioner, and mentor based in Yogyakarta, Indone
 
 ## Experience
 
-### Facilitator — Coding Camp Powered by DBS Foundation: University 2026
-
-**Dicoding Indonesia × Bank DBS Foundation** · Feb 2026–Present
-
-Facilitate university students through Dicoding courses, lead biweekly online sessions, support Instructor-Led Training, and help students maintain learning progress.
-
 ### Lead Divisi IT & Programmer
 
 **Edumatrix Indonesia** · Jun 2025–Present
 
 Lead IT operations and the development of 10+ internal applications. Build and maintain 15+ SEO websites with weekly organic traffic ranging from 1K to 16K, manage WordPress sites, develop an IRT-based tryout platform, optimize Google Ads landing pages, and establish Git-based CI/CD workflows.
+
+### Facilitator — Coding Camp Powered by DBS Foundation: University 2026
+
+**Dicoding Indonesia × Bank DBS Foundation** · Feb 2026–June 2026
+
+Facilitate university students through Dicoding courses, lead biweekly online sessions, support Instructor-Led Training, and help students maintain learning progress.
 
 ### Mentor — Coding Camp Powered by DBS Foundation: SMK 2025
 

@@ -1,311 +1,136 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2A5F,100:2563B8&height=160&section=header&text=Ika%20Triyana&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=Programmer%20%C2%B7%20Web%20Performance%20%C2%B7%20Mentor&descSize=18&descAlignY=65" width="100%" alt="Ika Triyana" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1E3,50:C9B6FF,100:B5D8FF&height=230&section=header&text=Hii,%20I%27m%20Nana!%20(%EF%BD%A1%EF%BD%A5%CF%89%EF%BD%A5%EF%BD%A1)%EF%BE%89%E2%99%A1&fontSize=34&fontColor=4A3F6A&animation=fadeIn&fontAlignY=35&desc=Programmer%20%E2%9C%A8%20SEO%20x%20Performance%20Nerd%20%E2%9C%A8%20Mentor&descAlignY=55&descSize=18&descColor=4A3F6A" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=C05CD9&center=true&vCenter=true&width=700&lines=building+scalable+internal+apps+%F0%9F%8C%B7;growing+SEO+traffic+from+1K+to+16K%2Fweek+%F0%9F%8D%AD;mentoring+future+developers+with+dedication+%F0%9F%A7%B8;making+complex+topics+easy+to+understand+%E2%9C%A8" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/welcome%20to%20my%20profile-🌸-FFC1E3?style=for-the-badge&labelColor=FFF0F5" />
-<img src="https://komarev.com/ghpvc/?username=NanaBanana14&label=visitors+~*+*~&color=C9B6FF&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/badge/GPA-3.84%2F4.0%20🌟-B5D8FF?style=for-the-badge&labelColor=FFF0F5" />
-<img src="https://img.shields.io/badge/📍-Sleman%2C%20Yogyakarta-FFDFEF?style=for-the-badge&labelColor=FFF0F5" />
-
-<br/>
-
-<a href="mailto:ikatriyana14secjui@gmail.com">
-  <img src="https://img.shields.io/badge/💌%20Open%20to%20Opportunities%20%26%20Freelance-D6FFE3?style=for-the-badge&labelColor=FFF0F5" />
-</a>
-
-<br/><br/>
-
-⋆｡°✩ ⋆｡°✩ ⋆｡°✩ ⋆｡°✩ ⋆｡°✩ ⋆｡°✩ ⋆｡°✩ ⋆｡°✩
-
+  <a href="mailto:ikatriyana14secjui@gmail.com"><img src="https://img.shields.io/badge/Email-0F2A5F?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ika-triyana-1a1020236/"><img src="https://img.shields.io/badge/LinkedIn-2563B8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/NanaBanana14"><img src="https://img.shields.io/badge/GitHub-334155?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://nanabanana14.github.io/portofolio-nana/"><img src="https://img.shields.io/badge/Portfolio-0E7490?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </div>
 
-<p align="center">✿ ┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅❀ 𓊆 about me 𓊇 ❀┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅ ✿</p>
+<br>
 
-## 🎀 About Me
+Programmer, web performance practitioner, and mentor based in Yogyakarta, Indonesia. I build reliable internal tools and SEO-focused websites, and enjoy making complex technical topics easier to understand.
 
-<table align="center" width="100%">
-<tr><td>
+## Profile
 
-> ˚₊‧───────────────────────────────‧₊˚
->
-> ✧ Information Systems graduate (Alma Ata University) turned full-time **Programmer** ✧
-> ✧ 10+ internal apps & 15+ SEO websites (1K–16K weekly traffic) built with love 🌷
-> ✧ Big soft spot for mentoring — helped **2 cohorts become top graduates** 🎓💕
-> ✧ Believes complex problems and topics can *always* be broken down into something simple and clear ✨
->
-> ˚₊‧───────────────────────────────‧₊˚
+- Information Systems graduate from Alma Ata University (GPA 3.84/4.00).
+- Led development for 10+ internal applications and maintained 15+ SEO websites.
+- Improved weekly organic traffic from 1K to 16K for SEO-focused sites.
+- Built an Item Response Theory (IRT) scoring platform for digital tryouts.
+- Experienced mentor and facilitator; supported two cohorts that produced top graduates.
+- Manage WordPress websites, automation testing with Cypress and Jest, and web-performance improvements.
 
-</td></tr>
-</table>
+## Current Focus
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- Facilitating university students at Coding Camp Powered by DBS Foundation.
+- Leading IT operations and product development at Edumatrix Indonesia.
+- Deepening expertise in CI/CD, scalable systems, and UX research.
+- Open to front-end or full-stack roles, SEO and web-performance consulting, and mentoring collaborations.
+- Available to discuss WordPress optimization, SEO growth strategy, and IRT-based assessment systems.
 
-### 🌈 what i love doing
-- 🏗️ leading dev of **10+ internal apps**
-- 📈 growing **15+ SEO sites** (1K→16K/week)
-- 🛍️ pimping out **WordPress** sites
-- 🧪 testing everything with **Cypress & Jest**
-- 🧮 built a whole **IRT scoring platform**
+## Experience
 
-</td>
-<td width="50%" valign="top">
+### Lead Divisi IT & Programmer
 
-### 🍡 what makes me happy
-- 👩‍🏫 mentoring at **Coding Camp x DBS**
-- 🧸 turning scary topics into cozy ones
-- ⚡ shaving milliseconds off load times
-- 🤝 leading teams with kindness
-- 🎯 shipping things that just *work*
+**Edumatrix Indonesia** · Jun 2025–Present
 
-</td>
-</tr>
-</table>
+Lead IT operations and the development of 10+ internal applications. Build and maintain 15+ SEO websites with weekly organic traffic ranging from 1K to 16K, manage WordPress sites, develop an IRT-based tryout platform, optimize Google Ads landing pages, and establish Git-based CI/CD workflows.
 
-<p align="center">✿ ┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅❀ 𓊆 currently 𓊇 ❀┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅ ✿</p>
+### Facilitator — Coding Camp Powered by DBS Foundation: University 2026
 
-## 🌱 Currently
+**Dicoding Indonesia × Bank DBS Foundation** · Feb 2026–June 2026
 
-<table align="center" width="100%">
-<tr><td>
+Facilitate university students through Dicoding courses, lead biweekly online sessions, support Instructor-Led Training, and help students maintain learning progress.
 
-- 🔭 **Working on:** facilitating university students at Coding Camp Powered by DBS Foundation 2026, while leading IT & product development at Edumatrix Indonesia
-- 🌸 **Learning more about:** CI/CD pipelines, system scalability, and advanced UX research
-- 🤝 **Open to:** front-end/full-stack roles, SEO & web performance consulting, and mentoring collaborations
-- 💬 **Ask me about:** WordPress optimization, SEO growth strategy, or IRT-based assessment systems
-- 📫 **Reach me:** see the contact card at the bottom of this profile ⤵️
+### Mentor — Coding Camp Powered by DBS Foundation: SMK 2025
 
-</td></tr>
-</table>
+**Dicoding Indonesia × Bank DBS Foundation** · Jan 2025–Apr 2025
 
-<p align="center">✿ ┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅❀ 𓊆 experience 𓊇 ❀┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅ ✿</p>
+Mentored vocational high-school students through Dicoding courses. Two mentored cohorts achieved top-graduate recognition.
 
-## 🍰 Experience
+### Full-Stack Developer
 
-<table>
-<tr><td>
+**PT Sebangku Jaya Abadi** · Sep 2024–Dec 2024
 
-**🎀 Facilitator — Coding Camp Powered by DBS Foundation: University 2026**
-*Dicoding Indonesia × Bank DBS Foundation* • Feb 2026 – Present
-Facilitate university students through Dicoding courses, run bi-weekly online sessions, support Instructor-Led Training, and cheerlead student progress. 🧁
+Collaborated with UI/UX designers on the MARICA website and contributed to a web-based game.
 
-</td></tr>
-<tr><td>
+### KKN-T Participant
 
-**🌷 Lead Divisi IT & Programmer**
-*Edumatrix Indonesia* • Jun 2025 – Present
-Lead IT ops & 10+ internal apps, build/maintain 15+ SEO websites (1K–16K weekly traffic), manage WordPress sites, built an IRT-based tryout platform, optimize Google Ads landing pages, and set up Git-based CI/CD. 💻✨
+**Alma Ata University** · Feb 2024–Mar 2024
 
-</td></tr>
-<tr><td>
+Built the official website and dashboard for Padukuhan Kedung and authored its website usage guide.
 
-**🧸 Mentor — Coding Camp Powered by DBS Foundation: SMK 2025**
-*Dicoding Indonesia × Bank DBS Foundation* • Jan 2025 – Apr 2025
-Mentored vocational high school students through Dicoding courses — **2 cohorts produced top graduates** 🏆
+## Selected Work
 
-</td></tr>
-<tr><td>
+| Project | Contribution |
+| --- | --- |
+| Tryout Pintar | Digital examination platform using Item Response Theory for weighted, standardized assessments. |
+| Finance Apps | Internal finance applications for reporting, workflows, and data management. |
+| KBM Report Apps | Reporting tools for tracking student and class activities and progress. |
+| Academic Apps | Systems for course modules, syllabi, and worksheets. |
+| Dashboard Visualization Apps | Real-time dashboards for operational and performance metrics. |
+| Kuitansi Apps | Applications for generating and managing internal financial receipts. |
+| SEO Websites | 15+ SEO-driven websites with weekly organic traffic from 1K to 16K each. |
 
-**🌻 Kuliah Kerja Nyata Tematik (KKN-T)**
-*Alma Ata University* • Feb 2024 – Mar 2024
-Built and launched the official website & dashboard for Padukuhan Kedung; wrote the Website Usage Guidebook 📖
+## Technical Skills
 
-</td></tr>
-<tr><td>
-
-**🍬 Full Stack Developer**
-*PT Sebangku Jaya Abadi* • Sep 2024 – Dec 2024
-Collaborated with UI/UX designers on the MARICA website and helped build a web-based game 🎮
-
-</td></tr>
-</table>
-
-<p align="center">✿ ┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅❀ 𓊆 education 𓊇 ❀┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅ ✿</p>
-
-## 🎓 Education
-
-<table align="center" width="100%">
-<tr><td>
-
-**🌸 Alma Ata University, Yogyakarta** — Information Systems | GPA 3.84/4.0 | Sep 2021 – Sep 2025
-*Database Systems • Human-Computer Interaction • Information Systems Analysis & Design • Web Programming • Digital Innovation • Systems Implementation & Testing • Graphic Design • Systems Integration*
-
-</td></tr>
-<tr><td>
-
-**🧁 Studi Independen Bersertifikat — Front-End & Back-End Web Developer** | Dicoding Indonesia (PT. Presentologic) | Aug 2023 – Dec 2023
-- 🏅 **Best Graduate** among 400+ students
-- 👯 Led a 5-member team as Leader & Project Manager (home, event, news, cultural calendar, help center)
-- 🧪 Front-End Developer & Automation Testing lead
-
-</td></tr>
-</table>
-
-<p align="center">✿ ┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅❀ 𓊆 projects 𓊇 ❀┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅ ✿</p>
-
-## 🧷 Featured Projects
+| Area | Proficiency | Technologies |
+| --- | --- | --- |
+| Front end | Advanced | HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind CSS, React, Vue, Redux, Webpack |
+| Back end | Intermediate | PHP, Laravel, Node.js, Python, Express, Django, AWS |
+| Testing & CI/CD | Intermediate | Cypress, Jest, React Testing Library, Jasmine, Git, GitHub, CI/CD |
+| UI/UX & Design | Intermediate | Figma, Design Thinking, wireframing, prototyping |
+| Google Ecosystem | — | Google Analytics, Tag Manager, Search Console, Google Ads |
+| Tools | Advanced | Postman, npm, VS Code, Sublime Text, XAMPP |
+| CMS / WordPress | Intermediate | WordPress, WooCommerce, SEO optimization, security hardening |
 
 <div align="center">
-
-| Project | Description |
-|---|---|
-| 🧮 **Tryout Pintar** | Digital exam platform using **Item Response Theory (IRT)** for accurate, weight-based assessments |
-| 💰 **Finance Apps** | Internal finance apps for reporting, workflows & data management |
-| 📚 **KBM Report Apps** | Reporting tools to track student/class activities & progress |
-| 🗂️ **Academic Apps** | Manages course modules, syllabus & worksheets |
-| 📊 **Dashboard Visualization Apps** | Real-time dashboards for ops & performance metrics |
-| 🧾 **Kuitansi Apps** | Generates & manages internal financial receipts |
-| 🌐 **SEO Websites** | 15+ SEO-driven sites, 1K–16K weekly organic traffic each |
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,vue,nodejs,python,mysql,postgres,git,github,figma&theme=light" alt="Technical skills" />
 </div>
 
-<p align="center">✿ ┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅❀ 𓊆 tech stack 𓊇 ❀┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅ ✿</p>
+## Education
 
-## 🍭 Tech Stack
+### B.Sc. Information Systems
 
-<div align="center">
+**Alma Ata University, Yogyakarta** · Sep 2021–Sep 2025 · GPA 3.84/4.00
 
-**✿ Front-End (Advanced) ✿**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,react,vue,redux,webpack&theme=light" />
+Relevant study areas: database systems, human-computer interaction, information systems analysis and design, web programming, digital innovation, systems implementation and testing, graphic design, and systems integration.
 
-<br/><br/>
+### Studi Independen Bersertifikat — Front-End & Back-End Web Developer
 
-**✿ Back-End (Intermediate) ✿**
-<br/>
-<img src="https://skillicons.dev/icons?i=php,python,express,django,laravel,nodejs,postgres,mysql,aws&theme=light" />
+**Dicoding Indonesia** · Aug 2023–Dec 2023
 
-<br/><br/>
+- Best Graduate among 400+ students.
+- Led a five-person team as Team Leader and Project Manager for home, event, news, cultural-calendar, and help-center features.
+- Contributed as Front-End Developer and Automation Testing Lead.
 
-**✿ Testing & CI/CD (Intermediate) ✿**
-<br/>
-<img src="https://skillicons.dev/icons?i=cypress,jest&theme=light" />
-<img src="https://img.shields.io/badge/React%20Testing%20Library-FFC1E3?style=flat-square&logo=testing-library&logoColor=4A3F6A" />
-<img src="https://img.shields.io/badge/Jasmine-C9B6FF?style=flat-square&logo=jasmine&logoColor=4A3F6A" />
-<img src="https://img.shields.io/badge/CI%2FCD-B5D8FF?style=flat-square&logo=githubactions&logoColor=4A3F6A" />
+## Working Style
 
-<br/><br/>
+- Mentor at Coding Camp Powered by DBS Foundation and enjoy supporting learners' growth.
+- Break down complex or intimidating topics into clear, approachable steps.
+- Improve web performance by reducing unnecessary load time.
+- Lead teams with kindness and focus on dependable delivery.
 
-**✿ UI/UX & Design (Intermediate) ✿**
-<br/>
-<img src="https://skillicons.dev/icons?i=figma&theme=light" />
-<img src="https://img.shields.io/badge/Design%20Thinking-FFDFEF?style=flat-square&logoColor=4A3F6A" />
-<img src="https://img.shields.io/badge/Wireframe%20%26%20Prototyping-E5D4FF?style=flat-square&logoColor=4A3F6A" />
+---
 
-<br/><br/>
+Open to front-end or full-stack opportunities, web performance and SEO consulting, and mentoring collaborations.
 
-**✿ Google Ecosystem ✿**
-<br/>
-<img src="https://img.shields.io/badge/Google%20Analytics-FFECB3?style=flat-square&logo=googleanalytics&logoColor=4A3F6A" />
-<img src="https://img.shields.io/badge/Tag%20Manager-D4F1F4?style=flat-square&logo=googletagmanager&logoColor=4A3F6A" />
-<img src="https://img.shields.io/badge/Search%20Console-CDE7FF?style=flat-square&logo=googlesearchconsole&logoColor=4A3F6A" />
-<img src="https://img.shields.io/badge/Google%20Ads-FFD6E8?style=flat-square&logo=googleads&logoColor=4A3F6A" />
+## Impact Highlights
 
-<br/><br/>
+| Metric | Impact |
+| --- | --- |
+| 10+ Internal Applications | Streamlined business workflows end to end. |
+| 15+ SEO Websites | Grew weekly organic traffic from 1K to 16K per site. |
+| 2 Cohorts of Top Graduates | Mentees achieved top-graduate recognition in their SMK or university cohorts. |
+| Best Graduate | Recognized among 400+ students in Dicoding's Certified Independent Study program. |
+| Quality-First Delivery | Applied automation testing with Cypress, Jest, and React Testing Library. |
+| IRT Assessment Platform | Built a scientifically standardized tryout scoring system. |
 
-**✿ Tools (Advanced) ✿**
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,sublime,npm&theme=light" />
-<img src="https://img.shields.io/badge/XAMPP-FFE3EC?style=flat-square&logo=xampp&logoColor=4A3F6A" />
-
-<br/><br/>
-
-**✿ CMS / WordPress (Intermediate) ✿**
-<br/>
-<img src="https://skillicons.dev/icons?i=wordpress&theme=light" />
-<img src="https://img.shields.io/badge/WooCommerce-F3D6FF?style=flat-square&logo=woocommerce&logoColor=4A3F6A" />
-<img src="https://img.shields.io/badge/SEO%20Optimization-D6FFE3?style=flat-square&logoColor=4A3F6A" />
-<img src="https://img.shields.io/badge/Security%20Hardening-FFD6D6?style=flat-square&logoColor=4A3F6A" />
-
-</div>
-
-<p align="center">✿ ┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅❀ 𓊆 stats 𓊇 ❀┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅ ✿</p>
-
-## 🎡 GitHub Analytics
+## GitHub Activity
 
 <div align="center">
-
-<img src="https://img.shields.io/github/followers/NanaBanana14?style=for-the-badge&color=FFC1E3&labelColor=FFF0F5&logo=github&logoColor=4A3F6A" />
-<img src="https://img.shields.io/github/stars/NanaBanana14?style=for-the-badge&color=C9B6FF&labelColor=FFF0F5&logo=github&logoColor=4A3F6A" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/NanaBanana14&label=public%20repos&query=%24.public_repos&style=for-the-badge&color=B5D8FF&labelColor=FFF0F5&logo=github&logoColor=4A3F6A" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NanaBanana14&theme=merko&hide_border=true&background=FFF0F5&ring=FF8FC7&fire=C05CD9&currStreakLabel=C05CD9" alt="streak stats" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NanaBanana14&theme=minimal&hide_border=true&bg_color=FFF0F5&color=C05CD9&line=FF8FC7&point=4A3F6A" width="95%"/>
-
-</div>
-
-<p align="center">✿ ┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅❀ 𓊆 highlights 𓊇 ❀┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅ ✿</p>
-
-## 🌟 Impact Highlights
-
-<div align="center">
-
-⋆｡°✩ ⋆｡°✩ ⋆｡°✩ ⋆｡°✩ ⋆｡°✩ ⋆｡°✩ ⋆｡°✩ ⋆｡°✩
-
-| 🎈 Metric | Impact |
-|:---:|:---|
-| 🖥️ **10+ Internal Apps** | Streamlined real business workflows end-to-end |
-| 📈 **15+ SEO Websites** | Grew weekly organic traffic from **1K → 16K** per site |
-| 🎓 **2 Cohorts → Top Graduates** | Mentees recognized as top of their SMK/university cohort |
-| 🏅 **Best Graduate (400+ students)** | Dicoding Studi Independen Bersertifikat |
-| 🧪 **Quality-First Delivery** | Automation testing via Cypress, Jest & RTL |
-| 🧮 **IRT Assessment Platform** | Built a scientifically standardized tryout scoring system |
-
-</div>
-
-<p align="center">✿ ┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅❀ 𓊆 say hi 𓊇 ❀┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅ ✿</p>
-
-## 💌 Let's Connect
-
-<table align="center" width="100%">
-<tr><td>
-
-<div align="center">
-
-˚₊‧───────────────────────────────‧₊˚
-
-<a href="mailto:ikatriyana14secjui@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FFC1E3?style=for-the-badge&logo=gmail&logoColor=4A3F6A" />
-</a>
-<a href="https://github.com/NanaBanana14">
-  <img src="https://img.shields.io/badge/GitHub-C9B6FF?style=for-the-badge&logo=github&logoColor=4A3F6A" />
-</a>
-<a href="https://www.linkedin.com/in/ika-triyana-1a1020236/">
-  <img src="https://img.shields.io/badge/LinkedIn-B5D8FF?style=for-the-badge&logo=linkedin&logoColor=4A3F6A" />
-</a>
-<a href="https://nanabanana14.github.io/portofolio-nana/">
-  <img src="https://img.shields.io/badge/Portfolio-FFDFEF?style=for-the-badge&logo=googlechrome&logoColor=4A3F6A" />
-</a>
-
-<br/><br/>
-
-<i>"Passionate about sharing knowledge and making complex topics easier to understand, helping teams and learners grow." 🌷</i>
-
-˚₊‧───────────────────────────────‧₊˚
-
-</div>
-
-</td></tr>
-</table>
-
-<div align="center">
-
-<br/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B5D8FF,50:C9B6FF,100:FFC1E3&height=110&section=footer" width="100%"/>
-
-<sub>˚ · . thanks for stopping by — have a sparkly day! ✨🍓 . · ˚</sub>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NanaBanana14&show_icons=true&hide_border=true&rank_icon=github&title_color=0F2A5F&icon_color=2563B8&text_color=334155&bg_color=FFFFFF" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=NanaBanana14&hide_border=true&ring=2563B8&fire=F59E0B&currStreakLabel=0F2A5F&sideLabels=334155&dates=64748B" alt="GitHub contribution streak" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NanaBanana14&bg_color=FFFFFF&color=0F2A5F&line=2563B8&point=F59E0B&area=true&hide_border=true" width="96%" alt="GitHub contribution graph" />
 </div>

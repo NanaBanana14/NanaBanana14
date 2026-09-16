@@ -30,17 +30,17 @@ Programmer, web performance practitioner, and mentor based in Yogyakarta, Indone
 
 ## Experience
 
+### Facilitator — Coding Camp Powered by DBS Foundation: University 2026
+
+**Dicoding Indonesia × Bank DBS Foundation** · Feb 2026–Present
+
+Facilitate university students through Dicoding courses, lead biweekly online sessions, support Instructor-Led Training, and help students maintain learning progress.
+
 ### Lead Divisi IT & Programmer
 
 **Edumatrix Indonesia** · Jun 2025–Present
 
 Lead IT operations and the development of 10+ internal applications. Build and maintain 15+ SEO websites with weekly organic traffic ranging from 1K to 16K, manage WordPress sites, develop an IRT-based tryout platform, optimize Google Ads landing pages, and establish Git-based CI/CD workflows.
-
-### Facilitator — Coding Camp Powered by DBS Foundation: University 2026
-
-**Dicoding Indonesia × Bank DBS Foundation** · Feb 2026–June 2026
-
-Facilitate university students through Dicoding courses, lead biweekly online sessions, support Instructor-Led Training, and help students maintain learning progress.
 
 ### Mentor — Coding Camp Powered by DBS Foundation: SMK 2025
 
@@ -129,8 +129,11 @@ Open to front-end or full-stack opportunities, web performance and SEO consultin
 ## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NanaBanana14&show_icons=true&hide_border=true&rank_icon=github&title_color=0F2A5F&icon_color=2563B8&text_color=334155&bg_color=FFFFFF" alt="GitHub statistics" />
+  <img src="https://img.shields.io/github/followers/NanaBanana14?style=for-the-badge&color=2563B8&labelColor=0F2A5F&logo=github&logoColor=white&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/NanaBanana14?style=for-the-badge&color=0E7490&labelColor=0F2A5F&logo=github&logoColor=white&label=Stars" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/repo-size/NanaBanana14/portofolio-nana?style=for-the-badge&color=F59E0B&labelColor=0F2A5F&logo=github&logoColor=white&label=Portfolio" alt="Portfolio repository size" />
+  <br><br>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=NanaBanana14&hide_border=true&ring=2563B8&fire=F59E0B&currStreakLabel=0F2A5F&sideLabels=334155&dates=64748B" alt="GitHub contribution streak" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NanaBanana14&bg_color=FFFFFF&color=0F2A5F&line=2563B8&point=F59E0B&area=true&hide_border=true" width="96%" alt="GitHub contribution graph" />
+  <img src="https://ghchart.rshah.org/2563B8/NanaBanana14" width="96%" alt="GitHub contribution graph" />
 </div>
